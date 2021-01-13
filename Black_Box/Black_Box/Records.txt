@@ -1,0 +1,10 @@
+1000000 Deus
+10000 Developer
+1000 Oldman
+400 TestName2
+372 TestName1
+140 ShatterHell
+100 Kid
+0 Noname
+0 Noname
+0 Noname

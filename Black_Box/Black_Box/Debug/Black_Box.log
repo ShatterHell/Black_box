@@ -1,0 +1,8 @@
+﻿  classes.cpp
+  main.cpp
+e:\сибгау\курсовые\курсовая. орлова\на диск\black_box\black_box\classes.cpp(47): warning C6385: Чтение недопустимых данных из "MasCell":  доступный для чтения объем равен "N*N*4" байт, однако считать можно только "12" байт.
+e:\сибгау\курсовые\курсовая. орлова\на диск\black_box\black_box\classes.cpp(50): warning C6386: Переполнение буфера при записи в "MasCell":  доступный для записи объем равен "N*N*4" байт, однако записать можно только "12" байт.
+e:\сибгау\курсовые\курсовая. орлова\на диск\black_box\black_box\classes.cpp(207): warning C6001: Использование неинициализированной памяти "napravlenie".
+e:\сибгау\курсовые\курсовая. орлова\на диск\black_box\black_box\classes.cpp(356): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+e:\сибгау\курсовые\курсовая. орлова\на диск\black_box\black_box\classes.cpp(378): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+e:\сибгау\курсовые\курсовая. орлова\на диск\black_box\black_box\classes.cpp(591): warning C6001: Использование неинициализированной памяти "field".
